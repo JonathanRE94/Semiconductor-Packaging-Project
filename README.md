@@ -1,0 +1,1 @@
+The literature review highlights the challenges of traditional micro-bump and hybrid bonding methods in semiconductor packaging due to oxide contamination and explores the potential of hydrogen plasma as a clean, effective solution for improving bond strength and enabling advanced 2D and 3D IC stacking in next-generation electronics.
